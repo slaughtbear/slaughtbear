@@ -8,6 +8,6 @@
 # Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,nodejs,express,nextjs,python,django,postgres,dart,flutter,php,mysql,firebase,vite,postman,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,nodejs,nextjs,python,django,postgres,dart,flutter,php,mysql,firebase,vite,postman,git" />
   </a>
 </p>
