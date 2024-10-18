@@ -5,9 +5,11 @@
 - 🧰 Fullstack Developer
 - 📱 Multiplatform project development
   
-# Skills
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,nodejs,nextjs,python,django,postgres,dart,flutter,php,mysql,firebase,vite,postman,git" />
-  </a>
-</p>
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,dart,cs)](https://skillicons.dev)
+
+## Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,flutter,tailwind,bootstrap)](https://skillicons.dev)
+
+## Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase)](https://skillicons.dev)
