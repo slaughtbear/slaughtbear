@@ -6,7 +6,7 @@
 - 📱 Multiplatform project development
   
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,django,dart,flutter,mysql,postgres,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,django,postgres,dart,flutter,php,mysql,firebase)](https://skillicons.dev)
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman,obsidian)](https://skillicons.dev)
