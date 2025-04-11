@@ -6,7 +6,7 @@
 - 🐍 Currently focused on Python for backend development
   
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,django,fastapi,dart,flutter,php,mysql,firebase,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,django,fastapi,java,dart,flutter,php,mysql,firebase,supabase)](https://skillicons.dev)
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman,obsidian)](https://skillicons.dev)
