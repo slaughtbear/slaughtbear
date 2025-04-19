@@ -3,7 +3,6 @@
 # About Me
 - 🏫 I'm currently studying Software Engineering at [Universidad Tecnológica de Chihuahua](https://www.utch.edu.mx/index.php/tecnologias/)
 - 🌐 Fullstack Developer
-- 🐍 Currently focused on Python for backend development
   
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,django,fastapi,java,dart,flutter,php,mysql,firebase,supabase)](https://skillicons.dev)
