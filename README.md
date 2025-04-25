@@ -8,4 +8,4 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,django,fastapi,java,dart,flutter,php,mysql,firebase,supabase)](https://skillicons.dev)
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,github,postman,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,git,github,postman,linux,vite,obsidian)](https://skillicons.dev)
