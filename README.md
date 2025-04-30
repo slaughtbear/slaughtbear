@@ -10,7 +10,7 @@
 <br>
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite,python,django,fastapi,nodejs,express,php,java,cs,dart,flutter,kotlin,mysql,supabase,firebase&perline=18)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,django,fastapi,nodejs,express,php,java,cpp,cs,kotlin,dart,flutter,mysql,supabase,firebase&perline=18)](https://skillicons.dev)
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,postman,git,github,linux,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,postman,vite,git,github,linux,obsidian)](https://skillicons.dev)
