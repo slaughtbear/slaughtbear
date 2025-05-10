@@ -8,6 +8,8 @@
 - ☕ Specializing in Java Backend 
 - 🔥 Passionate about clean code and software architecture
 <br>
+<br>
+<br>
 
 ## My skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,django,fastapi,mysql,supabase,postman,git,github,linux,markdown)](https://skillicons.dev)
