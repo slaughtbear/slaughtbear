@@ -5,7 +5,6 @@
 ### 🔍 About Me
 - 🎓 Software Engineering student at [Universidad Tecnológica de Chihuahua](https://www.utch.edu.mx/index.php/tecnologias/)
 - 🌐 Fullstack Developer
-- ☕ Specializing in Java Backend 
 - 🔥 Passionate about clean code and software architecture
 <br>
 <br>
