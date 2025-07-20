@@ -6,9 +6,6 @@
 - 🎓 Software Engineering student at [Universidad Tecnológica de Chihuahua](https://www.utch.edu.mx/index.php/tecnologias/)
 - 🌐 Fullstack Developer
 - 🔥 Passionate about clean code and software architecture
-<br>
-<br>
-<br>
 
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi,django,nodejs,express)](https://skillicons.dev)
