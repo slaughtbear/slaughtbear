@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Iván Aguirre <img width="25" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRyNXc3azA4aGtzc2xrcHFmdjVjM3ZreDU4dDRzbWZ0c3YwNHVsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XdK1wtoRHfIJMBxiYe/giphy.gif"></h1>
 
-<img align="right" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHlwMzBpcTQ2OXlyOXY4bmJ4ZnllbXY4eTJweTNydzU1Y2ZmenIxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1v2lXOfPBqKygjlkCM/giphy.gif" />
+<img align="right" width="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Y0em1ybWt3OXVtbzdzZjBqZDhrOWdhejl5bTAxMjFmcTR1b2lrMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cjcRYxsXnpls5SSRXV/giphy.gif" />
 
 ### 🔍 About Me
 - 🎓 Software Engineering student at [Universidad Tecnológica de Chihuahua](https://www.utch.edu.mx/index.php/tecnologias/)
