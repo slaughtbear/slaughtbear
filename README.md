@@ -11,7 +11,7 @@
 <br>
 
 ## My skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,django,fastapi,mysql,supabase,postman,git,github,linux,markdown)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,python,django,fastapi,mongodb,mysql,supabase,postman,git,github,linux,markdown)](https://skillicons.dev)
 
 ## Other tools and technologies I’ve worked with
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,bootstrap,vite,cpp,arduino,cs,java,kotlin,dart,flutter,firebase,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,php,bootstrap,vite,cpp,arduino,cs,java,kotlin,dart,flutter,firebase)](https://skillicons.dev)
