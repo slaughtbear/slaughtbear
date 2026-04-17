@@ -22,7 +22,7 @@ I am focusing on backend development and data analysis with Python, and I am cur
 <h2 align="center">🛠️ Backend & Dev Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,django,fastapi,ts,nodejs,docker,git,github,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,python,django,fastapi,js,nodejs,docker,git,github,postman&theme=dark" />
   </a>
 </p>
 
