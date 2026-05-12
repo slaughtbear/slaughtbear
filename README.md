@@ -10,4 +10,4 @@ I am a  Software Engineer focused on backend development, I´m currently working
 ---
 
 ## 🛠️ Skills & Dev Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,python,fastapi,django,java,postgres,mongo,redis,docker,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,typescript,react,tailwind,python,fastapi,django,java,postgres,mongo,redis,docker,git,postman)](https://skillicons.dev)
